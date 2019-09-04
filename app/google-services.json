@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "347573099499",
+    "firebase_url": "https://apiapplication-f3e77.firebaseio.com",
+    "project_id": "apiapplication-f3e77",
+    "storage_bucket": "apiapplication-f3e77.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:347573099499:android:ad1310bb473286ab",
+        "android_client_info": {
+          "package_name": "com.prematix_hangouts"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "347573099499-l8v55tam6lhlstg1458or8ibbd6vkgcq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.prematix_hangouts",
+            "certificate_hash": "763e65399b5ee9668994194ddc74f50c3c3582e9"
+          }
+        },
+        {
+          "client_id": "347573099499-100mtm7mvbo93rj74qb3j38qm66alfkh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSBA2YZw2L4R0QRJZfeuzG7HjVZSEGYlw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "347573099499-100mtm7mvbo93rj74qb3j38qm66alfkh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
